@@ -22,9 +22,9 @@ Use SIGINT or SIGTERM to stop.
 ## Build
 
 Install the following:
-* cmake
+* CMake 3.11 or higher is required
 * A C++17 compiler
-* Boost 1.58
+* Boost 1.60 or higher is required
 * libpqxx
 * libpq
 
